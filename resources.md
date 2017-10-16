@@ -6,7 +6,7 @@ PRs welcome! 🤓
 
 ## Podcasts
 
-- (Code Newbie)[https://www.codenewbie.org/]
+- [Code Newbie](https://www.codenewbie.org/)
 - (Programming Throwdown)[http://www.programmingthrowdown.com/]
 - (NodeUp)[http://nodeup.com/]
 
