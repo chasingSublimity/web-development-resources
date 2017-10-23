@@ -9,8 +9,13 @@ PRs welcome! 🤓
 - [Code Newbie](https://www.codenewbie.org/)
 - [Programming Throwdown](http://www.programmingthrowdown.com/)
 - [NodeUp](http://nodeup.com/)
+- [SyntaxFM](https://syntax.fm/)
 
 ## Courses
 
 - [Chrome Dev Tools](http://discover-devtools.codeschool.com/) (Free!)
 - [ES6.io](http://discover-devtools.codeschool.com/)
+
+## Books
+
+- [Eloquent JavaScript](http://eloquentjavascript.net/)
