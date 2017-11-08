@@ -11,6 +11,7 @@ PRs welcome! 🤓
 - [NodeUp](http://nodeup.com/)
 - [SyntaxFM](https://syntax.fm/)
 - [JavaScriptAir](https://javascriptair.com/)
+- [BaseCs](https://www.codenewbie.org/basecs)
 
 ## Courses
 
