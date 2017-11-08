@@ -10,6 +10,7 @@ PRs welcome! 🤓
 - [Programming Throwdown](http://www.programmingthrowdown.com/)
 - [NodeUp](http://nodeup.com/)
 - [SyntaxFM](https://syntax.fm/)
+- [JavaScriptAir](https://javascriptair.com/)
 
 ## Courses
 
